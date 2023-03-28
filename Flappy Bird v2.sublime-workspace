@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getVelocity\t⌬ tabnine"
+			],
+			[
+				"hori",
+				"horizontalVelocity\t⌬ tabnine"
+			],
+			[
+				"getHoriza",
+				"getHorizontalVelocity();\t⌬ tabnine"
+			],
+			[
+				"curre",
+				"currentWeapon);\t⌬ tabnine"
+			],
+			[
+				"curr",
+				"currentWeapon\t⌬ tabnine"
+			],
+			[
+				"weapon",
+				"weapon_ar"
+			],
+			[
+				"veloc",
+				"velocity*deltaTime*sin(direction*PI/180"
+			],
+			[
+				"setPo",
+				"setPosition(p_"
+			],
+			[
+				"dropp",
+				"droppedWeapons"
+			],
+			[
+				"weapo",
+				"weapons[currentWeapon]"
+			],
+			[
+				"bulletA",
+				"bulletAtlasPos"
+			],
+			[
+				"p_bullet",
+				"p_bulletAtlasPos;"
+			],
+			[
+				"bulletScale",
+				"bulletScale = p_bulletScale;"
+			],
+			[
+				"p_bull",
+				"p_bulletAtlasPos"
+			],
+			[
+				"bull",
+				"bullet_tex"
+			],
+			[
+				"relo",
+				"reloadTime"
+			],
+			[
+				"cr",
+				"currentWeapon"
+			],
+			[
+				"cu",
+				"cubePos"
+			],
+			[
+				"pla",
+				"player_to_weapon_offset"
+			],
+			[
+				"Ve",
+				"Vector2f"
+			],
+			[
+				"p_t",
+				"p_type;"
+			],
+			[
+				"wea",
+				"weapon_to_bullet_offset"
+			],
+			[
+				"i",
+				"include <SDL2/"
+			],
+			[
+				"current",
+				"currentTick"
+			],
+			[
+				"Rende",
+				"RenderWindow"
+			],
+			[
+				"switch",
+				"switch(event.type)"
+			],
+			[
+				"uno",
+				"unordered_map"
+			],
+			[
+				"Render",
+				"RenderWindow"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"move",
+				"movements[0]"
+			],
+			[
+				"movem",
+				"movements"
+			],
+			[
+				"moveme",
+				"movements[0]"
+			],
+			[
+				"set",
+				"setVelocity("
+			],
+			[
+				"Vec",
+				"Vector2f p_velocity)"
+			],
+			[
+				"delt",
+				"deltaTime"
+			],
+			[
+				"doub",
+				"double deltaTime);"
+			],
+			[
+				"SDL_GetPerf",
+				"SDL_GetPerformanceCounter"
+			],
+			[
+				"scree",
+				"screenHeight"
+			],
+			[
+				"screen",
+				"screenHeight"
+			],
+			[
+				"scr",
+				"screenHeight"
+			],
+			[
+				"screenHei",
+				"screenHeight = 720;"
+			],
+			[
+				"Textu",
+				"TextureAtlasPart"
+			],
+			[
+				"unord",
+				"unordered_map<int, TextureAtlasPart>"
+			],
+			[
+				"posi",
+				"position.h"
+			],
+			[
+				"p",
+				"posy;"
+			],
+			[
+				"Texture",
+				"TextureAtlasPart>"
+			],
+			[
+				"getCurrent",
+				"getCurrentFrame"
+			],
+			[
+				"Rend",
+				"RenderWindow::loadTexture(\"res/gfx/But"
+			],
+			[
+				"p_",
+				"p_posy);"
+			],
+			[
+				"TextureA",
+				"TextureAtlas"
+			],
+			[
+				"mouse",
+				"mousePressed"
+			],
+			[
+				"mosue",
+				"mousePressed"
+			],
+			[
+				"mouseP",
+				"mousePressed"
+			],
+			[
+				"Vect",
+				"Vector2f"
+			],
+			[
+				"SDL_DisplayMode",
+				"SDL_DisplayMode screen"
+			],
+			[
+				"SDL_D",
+				"SDL_DisplayMode"
+			],
+			[
+				"scre",
+				"screenSize.h"
+			],
+			[
+				"SDL_Di",
+				"SDL_DisplayMode"
+			],
+			[
+				"SDL_Text",
+				"SDL_Texture* texture"
+			],
+			[
+				"Butt",
+				"Button::get"
+			],
+			[
+				"de",
+				"deltaTime ="
+			],
+			[
+				"SDL_Redn",
+				"SDL_Renderer* renderer"
+			],
+			[
+				"gam",
+				"gameScene"
+			],
+			[
+				"Sc",
+				"SceneIndex"
+			],
+			[
+				"Ga",
+				"GameScene::"
+			],
+			[
+				"SDL_",
+				"SDL_image"
+			],
+			[
+				"SDL_Window",
+				"SDL_Window* window"
+			],
+			[
+				"ma",
+				"main(int argc, char *argv[])"
+			],
+			[
+				"mo",
+				"mouseDown"
+			],
+			[
+				"SDL_Get",
+				"SDL_GetPerformanceCounter"
+			],
+			[
+				"SDL_GetPerformance",
+				"SDL_GetPerformanceCounter();"
+			],
+			[
+				"win",
+				"win_h,"
+			],
+			[
+				"SDL",
+				"SDL_GetError() <<"
+			],
+			[
+				"getRefres",
+				"getRefreshRate();"
+			],
+			[
+				"SDL_Tex",
+				"SDL_Texture*"
+			],
+			[
+				"V",
+				"Vector2f"
+			],
+			[
+				"Ene",
+				"Enemy.h"
+			],
+			[
+				"this",
+				"this->"
+			],
+			[
+				"SDL_T",
+				"SDL_Texture*"
+			],
+			[
+				"firstCu",
+				"firstCube.getPos());"
+			],
+			[
+				"bul",
+				"bulletTex"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"delta",
+				"deltaTime"
+			],
+			[
+				"vec",
+				"vector"
+			],
+			[
+				"Bull",
+				"Bullet.h\""
+			],
+			[
+				"Mo",
+				"mouseDown"
+			],
+			[
+				"lef",
+				"leftMove, bool& rightMove"
+			],
+			[
+				"map",
+				"mapMaybe2"
+			],
+			[
+				"cub",
+				"cubeTex"
+			],
+			[
+				"main",
+				"mainTex"
+			],
+			[
+				"SD",
+				"SDL_ttf"
+			],
+			[
+				"slo",
+				"slot2"
+			],
+			[
+				"chec",
+				"checkColl"
+			],
+			[
+				"place",
+				"placedBlocks"
+			],
+			[
+				"gun",
+				"gunsUpdate"
+			],
+			[
+				"slot",
+				"slot1_weapon"
+			],
+			[
+				"first",
+				"firstCube"
+			],
+			[
+				"firs",
+				"firstCube"
+			],
+			[
+				"ve",
+				"Vector2f"
+			],
+			[
+				"DSL_",
+				"SDL_image"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/sprites/redbird-downflap.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/sprites/message.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/sprites/gameover.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/Bird.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/font/arcadeClassic.ttf",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/RenderWindow.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/sprites/0.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/MenuScene.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/MenuScene.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/Entity.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/sprites/background-day.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/res/sprites/base.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/Entity.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/GameScene.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/Events.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Flappy Bird v2/src/WeaponActions.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Entity.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Entity.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/fileOpener.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/Left Overs/Left over code.txt",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/RenderWindow.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Bullet.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Weapon.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/MenuScene.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/weapon_ar.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/weapon_glock.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Cube.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Weapon.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/MenuScene.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/main.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Events.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/WeaponActions.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/res/gfx/AR.png",
+		"/G/info/Shooter Game rewamp/src/Bullet.h",
+		"/G/info/Shooter Game rewamp/src/Bullet.cp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Cube.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Scene.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Scene.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/TextureAtlas.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Math.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/GameScene.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/GameScene.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Button.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/src/Button.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/res/gfx/Cube1.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/res/gfx/Cube.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/Button.o",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/res/gfx/Buttons/play-button-light.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Rewamp/Shooter Game rewamp/res/gfx/Buttons/play-button-dark.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game v2 - new begg/src/BuildActions.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game v2 - new begg/src/Entity.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game v2 - new begg/src/Math.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game v2 - new begg/src/Re",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/Shooter game.sublime-project",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/BuildAction.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/EatingEnemy.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/EatingEnemy.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/RenderWindow.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/plans/EatingEnemy.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/WeaponActions.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Utils.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Bullet.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Bullet.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/RenderWindow.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Cube.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Enemy.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Entity.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Enemy.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Weapon.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Math.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Weapon.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/res/gfx/slot2.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/res/gfx/slot.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Entity.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Cube.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Dungeon/DungeonGeneration.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Pistol.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/plans/build placements.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/plans/Collision detection.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Shooter Game/src/Slot.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Dungeon/Room.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Dungeon/DungeonGeneration.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/res/gfx/pistol.png",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Cube.h",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Dungeon/DungeonGeneration.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Dungeon/Room.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Cube.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Entity.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/Game remake/src/Entity.h",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/res/gfx/Cube1.png",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/res/gfx/Cube.png",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/src/Cube.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/src/Cube.h",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/src/Entity.cpp",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/src/Entity.h",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/First Game.sublime-project",
+		"/E/Programare/Limbaj C C++/Game Projects/First Game/src/main.cpp",
+		"/C/Users/User/Desktop/Physics 2D SDL/Physics 2D SDL.sublime-project",
+		"/C/Users/User/Desktop/Physics 2D SDL/src/renderwindow.cpp",
+		"/C/Users/User/Desktop/Physics 2D SDL/include/RenderWindow.hpp",
+		"/C/Users/User/Desktop/Physics 2D SDL/src/main.cpp",
+		"/C/Users/User/Desktop/Physics 2D SDL/include/renderwindow.cpp",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wnewY",
+			"nullptr",
+			"\";\n",
+			"));\n",
+			"p_bulletVelocity",
+			"p_active",
+			"}\n",
+			";\n",
+			"deltaTime",
+			"\t\t\n",
+			");\n",
+			"\";\n",
+			");\n",
+			"exitBtn",
+			"this->",
+			";\n",
+			"vector",
+			"check",
+			"bullet&",
+			"y",
+			"));\n",
+			"();\n",
+			"mouseY",
+			"drop",
+			"current",
+			"cout",
+			"firstR",
+			"setScale",
+			"firstren",
+			"weaponSlot",
+			"==1)",
+			"update()",
+			"SWITCH",
+			"shoot",
+			"weapon",
+			"Weapon",
+			"drop",
+			"mode==1",
+			"mode==2",
+			"mode=1",
+			"if(mode==",
+			"slots.at(gun).setPos(Vector2f());",
+			"());\n",
+			"slots",
+			"guns.at(0",
+			"guns.at(1",
+			"guns.at(0",
+			"checkCo",
+			"switch",
+			"gun",
+			"bullets",
+			"weaponSlot",
+			"switch",
+			"}\n",
+			"dirX",
+			"pickup",
+			"checkCol",
+			"build",
+			"angle",
+			"antePos",
+			"firstCube.getPos()",
+			"build",
+			"guns.size()>0",
+			"pop(",
+			"guns",
+			"));\n",
+			"gun",
+			"slots",
+			"Entity",
+			"gun",
+			"cout",
+			"cou",
+			"h",
+			"first",
+			";\n",
+			"SDL_Quit",
+			":\n",
+			"p_entity",
+			"self.debug_text",
+			"finish",
+			"self.append_string"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
